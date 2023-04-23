@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you find this dataset useful for your research, please consider citing it as below."
+authors:
+- family-names: "Dass"
+  given-names: "Shivin"
+- family-names: "Yapeter"
+  given-names: "Jullian"
+- family-names: "Zhang"
+  given-names: "Jesse"
+- family-names: "Zhang"
+  given-names: "Jiahui"
+- family-names: "Pertsch"
+  given-names: "Karl"
+- family-names: "Nikolaidis"
+  given-names: "Stefanos"
+- family-names: "Lim"
+  given-names: "Joseph J."
+title: "CLVR Jaco Play Dataset"
+version: 1.0.0
+url: "https://github.com/clvrai/clvr_jaco_play_dataset"
