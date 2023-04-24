@@ -33,7 +33,7 @@ We found manual download to be faster in some cases.
 ## Using the Data
 Please check out our [Colab](https://colab.research.google.com/drive/1GC6LHTSMGufMkHfeAw5Ne3sQFViT_FL6?usp=sharing) for an example how to unpack and use the data!
 
-The dataset has the following structure:
+The dataset was collected at a frequency of 10Hz. It has the following structure:
 
 - Observations are split into 5 attributes,
     - **front_cam_ob** : observations from 3rd person cam
